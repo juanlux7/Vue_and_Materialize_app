@@ -1,8 +1,8 @@
 # reddit_api
 
-> A Vue.js project
+> A Vue.js project ![alt text](https://liuji-jim.gallerycdn.vsassets.io/extensions/liuji-jim/vue/0.1.5/1478501659069/Microsoft.VisualStudio.Services.Icons.Default)
 
-## Build Setup
+## Build Setup (instrucciones de ejecucion)
 
 ``` bash
 # install dependencies
